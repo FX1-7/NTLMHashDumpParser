@@ -5,6 +5,6 @@ with open(input("What is the file path you wish to open? "), 'r') as file:
     for row in reader:
         LastObject = len(row) - 1
         print(row[LastObject])
-        f.write(row[LastObject])
+        f.write(row[LastObject] + "\n")
 
 f.close()
