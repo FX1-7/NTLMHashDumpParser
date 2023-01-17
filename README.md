@@ -1,4 +1,4 @@
-# NTMLHashDumpParser
+# NTLMHashDumpParser
 
 This simple python file will parse your hash dump and return the NTML hashes with ease.
 
